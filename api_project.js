@@ -8,12 +8,15 @@ define({
     "withCompare": true,
     "withGenerator": false
   },
+  "jQueryAjaxSetup": {
+    "url": "https://kanwar.count.ly/"
+  },
   "sampleUrl": false,
   "defaultVersion": "0.0.0",
   "apidoc": "0.3.0",
   "generator": {
     "name": "apidoc",
-    "time": "2021-04-26T06:26:29.680Z",
+    "time": "2021-04-26T07:16:03.069Z",
     "url": "https://apidocjs.com",
     "version": "0.27.1"
   }
