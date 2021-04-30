@@ -94,9 +94,9 @@ define({ "api": [
         "type": "node.js"
       },
       {
-        "title": "Example usage:",
+        "title": "curl",
         "content": "curl -i 'HOST/o/export?app_id=600930ee7382d5f70c959d20'",
-        "type": "json"
+        "type": "curl"
       }
     ],
     "success": {
